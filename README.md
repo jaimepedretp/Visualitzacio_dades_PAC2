@@ -13,13 +13,13 @@ Les visualitzacións designades han estat:
 La tècnica escollida per a la primera visualització és un gràfic de línies (line graph).<br />
 Aquest tipus de gràfics s’utilitza per a mostrar valors quantitatius sobre un Interval continu. Generalment l’eix X es tracta d’unitats temporals i aquests gràfics mostren l’evolució o de la variable analitzada al llarg del temps.<br />
 Cada registre de les dades es col·loca sobre l’eix de coordenades cartesià i, seguidament, es dibuixa una línia que connecta els punts. D’aquesta manera s’observen tendències de creixement o decreixement de dels valors. <br />
-Aquest tipus de gràfics s’utilitzen generalment per a sèries temporals. Per exemple, l’evolució de la temperatura mitja mensual durant l’any  a Ciudad real (font: https://www.meteociudadreal.com/index.php/historico/temperatura/grafico-max-min/117-grafico-max-min-htemp). <br />
+Aquest tipus de gràfics s’utilitzen generalment per a sèries temporals. Per exemple, l’evolució de la temperatura mitja mensual durant l’any  a Ciudad real (font: [meteociudadreal](https://www.meteociudadreal.com/index.php/historico/temperatura/grafico-max-min/117-grafico-max-min-htemp) ). <br />
 
 ![image](https://github.com/user-attachments/assets/85a3215e-ce05-4256-87b5-6c66b4969e2b)
 
 
 Es poden afegir més d’una línia per a comprar diferents tipus de dades. En el gràfic de l’exemple, s’observa la temperatura mitja màxima i mínima.<br />
-Es considera a William Playfair, un enginyers escocès, con a l'inventor dels gràfics de linies. [1](https://flourish.studio/blog/masters-william-playfair-father-of-statistical-graphics/#:~:text=William%20Playfair%20was%20a%20Scottish,bar%20chart%2C%20and%20pie%20chart.) <br />
+Es considera a William Playfair, un enginyers escocès, con a l'inventor dels gràfics de linies. [ [1](https://flourish.studio/blog/masters-william-playfair-father-of-statistical-graphics/#:~:text=William%20Playfair%20was%20a%20Scottish,bar%20chart%2C%20and%20pie%20chart.) ] <br />
 A la imatgé a continuació s'observa un gràfic del 1786. Té com a objectiu visualitzar la balança de comerç entre regne unit i dinamarca i noruega entre 1700 i 1780. <br />
 
 ![image](https://github.com/user-attachments/assets/68605e90-6f57-4381-9016-9ff65cc1fbc8)
@@ -28,7 +28,7 @@ A la imatgé a continuació s'observa un gràfic del 1786. Té com a objectiu vi
 ## Tipus de dades que es poden representar
 
 Els gràfics de línies son utilitzats per a representar dades quantitatives. <br />
-Per a aquesta tècnica no hi ha limitació en quant a la mida del joc de dades però si que és important vigilar amb les combinacions de línies en el mateix gràfic. Es recomana mostrar com a màxim 4 línies en el mateix gràfic, tal i com es descriu a la pàgina web especialitzada en visualització de dades, datavizcatalogue: https://datavizcatalogue.com/methods/line_graph.html<br />
+Per a aquesta tècnica no hi ha limitació en quant a la mida del joc de dades però si que és important vigilar amb les combinacions de línies en el mateix gràfic. Es recomana mostrar com a màxim 4 línies en el mateix gràfic, tal i com es descriu a la pàgina web especialitzada en visualització de dades, [datavizcatalogue](https://datavizcatalogue.com/methods/line_graph.html)<br />
 Si és necessari mostrar-ne més, es poden dividir les visualització en sub-grafics.<br /> 
 
 ## Proposta 
@@ -57,7 +57,7 @@ Aquesta tècnica consisteix en posar diferents esdeveniments a l’eix X, com po
 Per a cada esdeveniment es visualitza el preu d’una acció, moneda o comodity de tal forma que veiem el preu màxim, mínim, el preu d’apertura i de tancament durant el període de temps seleccionat. A més, si el preu de tancament es inferior al d’apertura la figura es mostra de color vermell mentre que si és el contrari es presenta de color verd.<br /> 
 És una visualització utilitzada generalment com a eina de trading per a mostrar l’evolució del preu d’accions, materials, divises. <br /> 
 
-Es considera que aquest tipus de visualitzacions van estar introduides per primera vegada per al trader japonés Munehisa Homma, al segle 18.[2}
+Es considera que aquest tipus de visualitzacions van estar introduides per primera vegada per al trader japonés Munehisa Homma, al segle 18.[ [2](https://thelazytrader.com/candlestick-patterns) ]
 
 ## Tipus de dades que es poden representar
 
@@ -88,6 +88,7 @@ Es tracta de posicionar a l’eix x tots els nodes del diagrama. I s’afegeixen
 
 ![image](https://github.com/user-attachments/assets/6b58c5be-7f0c-4809-aba3-6f6a600de945)
 
+Aquest tipus de gràfic va estar utilitzat per primera vegada per Saaty(1964) [3] i Nicholson (1968) [4].
 
 Un diagrama d’arc es pot fer servir per a representar les connexions de ferrocarril de les grans ciutats europees. <br /> 
 
@@ -114,5 +115,7 @@ A la branca main d'aquest mateix repositori es pot trobar l'arxiu arc_diagram.py
 
 # Bibliografía
 [1]. Mafe Callejón, 22 February 2023;  https://flourish.studio/blog/masters-william-playfair-father-of-statistical-graphics/#:~:text=William%20Playfair%20was%20a%20Scottish,bar%20chart%2C%20and%20pie%20chart.<br /> 
-[2]. "Candlestick Patterns: A Complete Tutorial". The Lazy Trader. Retrieved 2024-02-18.
+[2]. "Candlestick Patterns: A Complete Tutorial". The Lazy Trader. Retrieved 2024-02-18.<br /> 
+[3]. Saaty, Thomas L. (1964), "The minimum number of intersections in complete graphs", Proceedings of the National Academy of Sciences of the United States of America, 52 (3): 688–690, Bibcode:1964PNAS...52..688S, doi:10.1073/pnas.52.3.688, MR 0166772, PMC 300329, PMID 16591215.<br /> 
+[4]. Nicholson, T. A. J. (1968), "Permutation procedure for minimising the number of crossings in a network", Proceedings of the Institution of Electrical Engineers, 115: 21–26, doi:10.1049/piee.1968.0004, MR 0311416.<br /> 
 
