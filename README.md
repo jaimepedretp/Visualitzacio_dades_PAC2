@@ -53,6 +53,8 @@ Aquesta tècnica consisteix en posar diferents esdeveniments a l’eix X, com po
 Per a cada esdeveniment es visualitza el preu d’una acció, moneda o comodity de tal forma que veiem el preu màxim, mínim, el preu d’apertura i de tancament durant el període de temps seleccionat. A més, si el preu de tancament es inferior al d’apertura la figura es mostra de color vermell mentre que si és el contrari es presenta de color verd.<br /> 
 És una visualització utilitzada generalment com a eina de trading per a mostrar l’evolució del preu d’accions, materials, divises. <br /> 
 
+Es considera que aquest tipus de visualitzacions van estar introduides per primera vegada per al trader japonés Munehisa Homma, al segle 18.[2}
+
 ## Tipus de dades que es poden representar
 
 Per la la naturalesa del gràfic, on mostrem evolució del preu de stocks, es tracta d’una visualització que mostra dades quantitatives. No es podrien establir les condicions de high-low amb variables qualitatives. <br /> 
@@ -103,5 +105,5 @@ A la branca main d'aquest mateix repositori es pot trobar l'arxiu arc_diagram.py
 
 # Bibliografía
 [1]. Mafe Callejón, 22 February 2023;  https://flourish.studio/blog/masters-william-playfair-father-of-statistical-graphics/#:~:text=William%20Playfair%20was%20a%20Scottish,bar%20chart%2C%20and%20pie%20chart.
-
+[2]. "Candlestick Patterns: A Complete Tutorial". The Lazy Trader. Retrieved 2024-02-18.
 
