@@ -91,6 +91,9 @@ Es vol veure quin tipus d’usuari és el que rep més retweets i s’observa cl
 
 ### Enllaç visualització
 
-La visualització ha estat creada amb python i utilitzant la llibrería Arcdiag. 
+La visualització ha estat creada amb python i utilitzant la llibrería arcplot.
+
+A la branca main d'aquest mateix repositori es pot trobar l'arxiu arc_diagram.py on es crea la visualització. 
+
 
 
