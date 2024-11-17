@@ -28,7 +28,7 @@ A la imatgé a continuació s'observa un gràfic del 1786. Té com a objectiu vi
 ## Tipus de dades que es poden representar
 
 Els gràfics de línies son utilitzats per a representar dades quantitatives. <br />
-Per a aquesta tècnica no hi ha limitació en quant a la mida del joc de dades però si que és important vigilar amb les combinacions de línies en el mateix gràfic. Es recomana mostrar com a màxim 4 línies en el mateix gràfic, tal i com es descriu a la pàgina web especialitzada en visualització de dades, datavizcatalogue.<br />
+Per a aquesta tècnica no hi ha limitació en quant a la mida del joc de dades però si que és important vigilar amb les combinacions de línies en el mateix gràfic. Es recomana mostrar com a màxim 4 línies en el mateix gràfic, tal i com es descriu a la pàgina web especialitzada en visualització de dades, datavizcatalogue: https://datavizcatalogue.com/methods/line_graph.html<br />
 Si és necessari mostrar-ne més, es poden dividir les visualització en sub-grafics.<br /> 
 
 ## Proposta 
