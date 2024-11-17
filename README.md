@@ -2,9 +2,9 @@
 Entrega PAC2 visualització de dades 
 
 Les visualitzacións designades han estat: 
- - Line Graph
- - Open-High-Low-Close Chart
- - Arc Diagram
+ - Line Graph. PowerBI
+ - Open-High-Low-Close Chart. PowerBI
+ - Arc Diagram. Python
 
 # Visualització 1: Line Graph
 
