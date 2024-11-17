@@ -50,6 +50,10 @@ https://app.powerbi.com/view?r=eyJrIjoiMzk4MjhjZjMtNGE4Mi00ZGE3LTgzMjUtNjg2ODY2Z
 
 La tècnica escollida per a la segona visualització és un gràfic del tipus OHLC. <br /> 
 Aquesta tècnica consisteix en posar diferents esdeveniments a l’eix X, com poden ser dies, mesos o hores. I col·locar a l’eix Y alguna mesura com poden ser dollars o Euros. <br /> 
+
+![image](https://github.com/user-attachments/assets/14d8b106-b8cb-47fc-816c-ef51c45b08c2)
+
+
 Per a cada esdeveniment es visualitza el preu d’una acció, moneda o comodity de tal forma que veiem el preu màxim, mínim, el preu d’apertura i de tancament durant el període de temps seleccionat. A més, si el preu de tancament es inferior al d’apertura la figura es mostra de color vermell mentre que si és el contrari es presenta de color verd.<br /> 
 És una visualització utilitzada generalment com a eina de trading per a mostrar l’evolució del preu d’accions, materials, divises. <br /> 
 
@@ -81,11 +85,16 @@ https://app.powerbi.com/view?r=eyJrIjoiYzM5NjhjMTctYjAwMC00YjMzLWFkMDMtNmJiNDFlN
 
 L’última tècnica de visualització és un arc diagram. Aquesta tècnics s’utilitza per a representar un diagrama de xarxa en dues dimensions. <br /> 
 Es tracta de posicionar a l’eix x tots els nodes del diagrama. I s’afegeixen arcs a la visualització per a representar les connexions entre els nodes. A més, és possible modificar el gruix de les línies per a representar la freqüència de les connexions. <br /> 
+
+![image](https://github.com/user-attachments/assets/6b58c5be-7f0c-4809-aba3-6f6a600de945)
+
+
 Un diagrama d’arc es pot fer servir per a representar les connexions de ferrocarril de les grans ciutats europees. <br /> 
 
 ## Tipus de dades que es poden representar
 
 La tècnica de diagrama d’arc permet fer representacions qualitatives i quantitatives. La relació entre els noves és una mesura qualitativa mentre que la freqüència es tracta d’una mesura quantitativa. En aquest cas no hi ha un límit tècnic en quant a la mida del joc de dades, però és una visualització que es pot fer difícilment llegible si hi ha moltes connexions. 
+![image](https://github.com/user-attachments/assets/4adecfa2-4ec7-45a8-82ec-904b1be16a99)
 
 
 ## Proposta
