@@ -104,6 +104,6 @@ A la branca main d'aquest mateix repositori es pot trobar l'arxiu arc_diagram.py
 
 
 # Bibliografía
-[1]. Mafe Callejón, 22 February 2023;  https://flourish.studio/blog/masters-william-playfair-father-of-statistical-graphics/#:~:text=William%20Playfair%20was%20a%20Scottish,bar%20chart%2C%20and%20pie%20chart.
+[1]. Mafe Callejón, 22 February 2023;  https://flourish.studio/blog/masters-william-playfair-father-of-statistical-graphics/#:~:text=William%20Playfair%20was%20a%20Scottish,bar%20chart%2C%20and%20pie%20chart.<br /> 
 [2]. "Candlestick Patterns: A Complete Tutorial". The Lazy Trader. Retrieved 2024-02-18.
 
