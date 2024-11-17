@@ -19,7 +19,7 @@ Aquest tipus de gràfics s’utilitzen generalment per a sèries temporals. Per 
 
 
 Es poden afegir més d’una línia per a comprar diferents tipus de dades. En el gràfic de l’exemple, s’observa la temperatura mitja màxima i mínima.<br />
-Es considera a William Playfair, un enginyers escocès, con a l'inventor dels gràfics de linies.[1] <br />
+Es considera a William Playfair, un enginyers escocès, con a l'inventor dels gràfics de linies. [1](https://flourish.studio/blog/masters-william-playfair-father-of-statistical-graphics/#:~:text=William%20Playfair%20was%20a%20Scottish,bar%20chart%2C%20and%20pie%20chart.) <br />
 A la imatgé a continuació s'observa un gràfic del 1786. Té com a objectiu visualitzar la balança de comerç entre regne unit i dinamarca i noruega entre 1700 i 1780. <br />
 
 ![image](https://github.com/user-attachments/assets/68605e90-6f57-4381-9016-9ff65cc1fbc8)
